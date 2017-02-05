@@ -1,4 +1,6 @@
-Line 1
-Another Line
-More input
-Last input
+int value, i;
+
+for(i = 0; i < 5; i++)
+{
+	value = i;
+}
